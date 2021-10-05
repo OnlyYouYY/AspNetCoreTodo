@@ -22,6 +22,7 @@ namespace AspNetCoreTodo.Data.Migrations
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
+                        jashdajsd;
                         .HasColumnType("TEXT");
 
                     b.Property<DateTimeOffset?>("DueAt")
